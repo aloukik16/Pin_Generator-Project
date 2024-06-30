@@ -10,29 +10,21 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
 <link rel=File-List href="Readme_files/filelist.xml">
-<link rel=Edit-Time-Data href="Readme_files/editdata.mso">
-<!--[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
+<!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>ALOUKIK AGRAWAL</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>ALOUKIK AGRAWAL</o:LastAuthor>
-  <o:Revision>3</o:Revision>
+  <o:Revision>4</o:Revision>
   <o:TotalTime>1</o:TotalTime>
   <o:Created>2024-06-30T10:45:00Z</o:Created>
-  <o:LastSaved>2024-06-30T10:47:00Z</o:LastSaved>
+  <o:LastSaved>2024-06-30T10:48:00Z</o:LastSaved>
   <o:Pages>3</o:Pages>
-  <o:Words>373</o:Words>
-  <o:Characters>2129</o:Characters>
-  <o:Lines>17</o:Lines>
-  <o:Paragraphs>4</o:Paragraphs>
-  <o:CharactersWithSpaces>2498</o:CharactersWithSpaces>
+  <o:Words>426</o:Words>
+  <o:Characters>2429</o:Characters>
+  <o:Lines>20</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>2850</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -728,7 +720,7 @@ div.WordSection1
 	font-family:"Times New Roman",serif;}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="1027"/>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
@@ -739,67 +731,29 @@ div.WordSection1
 
 <div class=WordSection1>
 
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#
 Pin Generator Project<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal><span class=GramE><span style='mso-fareast-font-family:"Times New Roman"'>![</span></span><span
+style='mso-fareast-font-family:"Times New Roman"'>Pin
+Generator](https://img.shields.io/badge/Pin%20Generator-v1.0-blue.svg)<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal><span class=GramE><span style='mso-fareast-font-family:"Times New Roman"'>![</span></span><span
+style='mso-fareast-font-family:"Times New Roman"'>License](https://img.shields.io/github/license/aloukik16/Pin_Generator-Project.svg)<o:p></o:p></span></p>
 
-<p class=MsoNormal><!--[if gte vml 1]><o:wrapblock><v:shapetype id="_x0000_t75"
-  coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
-  filled="f" stroked="f">
-  <v:stroke joinstyle="miter"/>
-  <v:formulas>
-   <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-   <v:f eqn="sum @0 1 0"/>
-   <v:f eqn="sum 0 0 @1"/>
-   <v:f eqn="prod @2 1 2"/>
-   <v:f eqn="prod @3 21600 pixelWidth"/>
-   <v:f eqn="prod @3 21600 pixelHeight"/>
-   <v:f eqn="sum @0 0 1"/>
-   <v:f eqn="prod @6 1 2"/>
-   <v:f eqn="prod @7 21600 pixelWidth"/>
-   <v:f eqn="sum @8 21600 0"/>
-   <v:f eqn="prod @7 21600 pixelHeight"/>
-   <v:f eqn="sum @10 21600 0"/>
-  </v:formulas>
-  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
-  <o:lock v:ext="edit" aspectratio="t"/>
- </v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_s1026" type="#_x0000_t75"
-  style='position:absolute;margin-left:24.75pt;margin-top:22.5pt;width:425.3pt;
-  height:252.05pt;z-index:251658240;visibility:visible;mso-wrap-style:square;
-  mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
-  mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
-  mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
-  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
-  mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
-  mso-width-relative:page;mso-height-relative:page'>
-  <v:imagedata src="Readme_files/image001.png" o:title=""/>
-  <w:wrap type="topAndBottom"/>
- </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
- <table cellpadding=0 cellspacing=0 align=left>
-  <tr>
-   <td width=49 height=0></td>
-  </tr>
-  <tr>
-   <td></td>
-   <td><img width=567 height=336 src="Readme_files/image001.png" v:shapes="Picture_x0020_1"></td>
-  </tr>
- </table>
- </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
-style='mso-ignore:vglayout' clear=ALL>
-<span style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+<p class=MsoNormal><span class=GramE><span style='mso-fareast-font-family:"Times New Roman"'>![</span></span><span
+style='mso-fareast-font-family:"Times New Roman"'>Issues](https://img.shields.io/github/issues/aloukik16/Pin_Generator-Project.svg)<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal><span class=GramE><span style='mso-fareast-font-family:"Times New Roman"'>![</span></span><span
+style='mso-fareast-font-family:"Times New Roman"'>Stars](https://img.shields.io/github/stars/aloukik16/Pin_Generator-Project.svg)<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
@@ -824,7 +778,11 @@ Table of Contents<o:p></o:p></span></p>
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>-
 [Contributing](#contributing)<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>- [Contact](#contact)<o:p></o:p></span></p>
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>-
+[License](#license)<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>-
+[Contact](#contact)<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
@@ -1023,6 +981,8 @@ any questions or inquiries, please contact:<o:p></o:p></span></p>
 [GitHub <span class=GramE>Profile](</span>https://github.com/aloukik16)<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>---<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
