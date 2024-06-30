@@ -23,16 +23,16 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>ALOUKIK AGRAWAL</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>ALOUKIK AGRAWAL</o:LastAuthor>
-  <o:Revision>2</o:Revision>
+  <o:Revision>3</o:Revision>
   <o:TotalTime>1</o:TotalTime>
   <o:Created>2024-06-30T10:45:00Z</o:Created>
-  <o:LastSaved>2024-06-30T10:46:00Z</o:LastSaved>
+  <o:LastSaved>2024-06-30T10:47:00Z</o:LastSaved>
   <o:Pages>3</o:Pages>
   <o:Words>373</o:Words>
-  <o:Characters>2132</o:Characters>
+  <o:Characters>2129</o:Characters>
   <o:Lines>17</o:Lines>
   <o:Paragraphs>4</o:Paragraphs>
-  <o:CharactersWithSpaces>2501</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>2498</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -60,6 +60,7 @@ w\:* {behavior:url(#default#VML);}
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -738,9 +739,12 @@ div.WordSection1
 
 <div class=WordSection1>
 
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#
+Pin Generator Project<o:p></o:p></span></p>
+
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>---<o:p></o:p></span></p>
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
@@ -765,18 +769,20 @@ div.WordSection1
   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
   <o:lock v:ext="edit" aspectratio="t"/>
  </v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_s1026" type="#_x0000_t75"
-  style='position:absolute;margin-left:33pt;margin-top:30.6pt;width:425.3pt;
+  style='position:absolute;margin-left:24.75pt;margin-top:22.5pt;width:425.3pt;
   height:252.05pt;z-index:251658240;visibility:visible;mso-wrap-style:square;
-  mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
+  mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
+  mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
   mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
   mso-position-horizontal-relative:text;mso-position-vertical:absolute;
-  mso-position-vertical-relative:text'>
+  mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
+  mso-width-relative:page;mso-height-relative:page'>
   <v:imagedata src="Readme_files/image001.png" o:title=""/>
   <w:wrap type="topAndBottom"/>
  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
- <table cellpadding=0 cellspacing=0>
+ <table cellpadding=0 cellspacing=0 align=left>
   <tr>
-   <td width=62 height=0></td>
+   <td width=49 height=0></td>
   </tr>
   <tr>
    <td></td>
@@ -785,7 +791,13 @@ div.WordSection1
  </table>
  </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
 style='mso-ignore:vglayout' clear=ALL>
-<span style='mso-fareast-font-family:"Times New Roman"'># Pin Generator Project<o:p></o:p></span></p>
+<span style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
@@ -812,8 +824,7 @@ Table of Contents<o:p></o:p></span></p>
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>-
 [Contributing](#contributing)<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>-
-[Contact](#contact)<o:p></o:p></span></p>
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>- [Contact](#contact)<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
@@ -1012,8 +1023,6 @@ any questions or inquiries, please contact:<o:p></o:p></span></p>
 [GitHub <span class=GramE>Profile](</span>https://github.com/aloukik16)<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>---<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
